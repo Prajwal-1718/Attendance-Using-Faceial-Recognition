@@ -5,7 +5,7 @@ This system uses the reference images stored in the **Attendance** folder to com
   1. Download the complete repository
   2. Store where ever you want
   3. Save some images of yours or whom you want to recognise in the **Attendance** folder
-  4. Open the project through **PyCharm** or **VSCode**
+  4. Open the project through **PyCharm** 
   5. Run the code
 
 
