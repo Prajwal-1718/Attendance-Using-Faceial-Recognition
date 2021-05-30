@@ -6,10 +6,11 @@ This system uses the reference images stored in the **Attendance** folder to com
   3. Save some images of yours or whom you want to recognise in the **Attendance** folder
   4. Open the project through **PyCharm** or **VSCode**
   5. Run the code
-.
-.
-.
-.
+
+
+
+
+
 **Requirements :**
   1. OpenCV
   2. face-recognition
